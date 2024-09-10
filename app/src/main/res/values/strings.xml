@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TraditionalAndroidDev</string>
+    <string name="footer_disclaimer">This is just a disclaimer for using the app.</string>
 </resources>
